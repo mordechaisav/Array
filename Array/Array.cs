@@ -274,4 +274,5 @@ public class Array
         }
         return expectedSum - actualSum;
     }
+    public void nothing(int n) { }
 }
